@@ -20,8 +20,13 @@
   <dd> - Studiato linguaggio Markdown</dd>
   <dd> - Installato Atom</dd>
   <dd> - Realizzato il diario</dd>
+</dl>
 
 ## Problemi / Soluzioni
 
-⋅⋅* **Errore 407:** Per risolvere questo problema ho dovuto abilitare GIT dalle opzioni di SourceTree
-⋅⋅* **Errore Clonazione:** Per risolvere questo problema ho dovuto inserire nel file di configurazione di git la stringa http per il proxy
+<dl>
+  <dt> Errore 407:</dt>
+  <dd> Per risolvere questo problema ho dovuto abilitare GIT dalle opzioni di SourceTree. Strumenti -> Opzioni -> GIT e abilitarlo</dd>
+  <dt> Errore Clonazione:</dt>
+  <dd> Per risolvere questo problema ho dovuto inserire nel file di configurazione di git la stringa http per il proxy</dd>
+</dd>
